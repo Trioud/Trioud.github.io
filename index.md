@@ -93,4 +93,4 @@ Start numbering with offset:
 
 ## Images
 
-![Baguette Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saveur.com%2Farticle%2FRecipes%2FFour-Hour-Baguette%2F&psig=AOvVaw0kcBhqOgFGFUNPBBuEUaJ8&ust=1664685321177000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOim25uavvoCFQAAAAAdAAAAABAK "The baguette")
+![Baguette Image](https://www.saveur.com/uploads/2019/02/08/PUED4QMKFMJ62TD6XHSVVTRXL4-1536x1152.jpg "The baguette")
