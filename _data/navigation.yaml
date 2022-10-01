@@ -1,6 +1,4 @@
-- name: Headings
-  link: "#headings"
-- name: Styling
-  link: "#styling"
-- name: Blockquotes
-  link: "#blockquotes"
+- name: Home
+  link: /
+- name: About
+  link: /about.html
