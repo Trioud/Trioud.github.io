@@ -21,5 +21,20 @@ nav {
 }
 
 .wrapper {
-    margin: 80px 16px 8px;
+    margin: 0 16px;
+}
+
+img {
+    height: auto;
+    max-width: 300px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+    font-style: italic;
+    font-size: 16px;
+    background-color: aliceblue;
 }
