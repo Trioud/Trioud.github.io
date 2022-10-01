@@ -19,7 +19,6 @@ nav {
     position: fixed;
     top: 0;
     right: 0;
-    width: 100%;
 }
 
 .wrapper {
@@ -35,6 +34,7 @@ footer {
     position: absolute;
     width: 100%;
     display: flex;
+    bottom: 0;
     justify-content: center;
     align-items: center;
     color: grey;
