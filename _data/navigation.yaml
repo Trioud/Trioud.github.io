@@ -2,3 +2,15 @@
   link: "#headings"
 - name: Styling
   link: "#styling"
+- name: Blockquotes
+  link: "#blockquotes"
+- name: Code
+  link: "#code"
+- name: Links
+  link: "#links"
+- name: Lists
+  link: "#lists"
+- name: Task Lists
+  link: "#task-lists"
+- name: Images
+  link: "#images"
