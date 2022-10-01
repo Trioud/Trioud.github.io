@@ -9,6 +9,9 @@
     <body>
         <nav>
             <ul>
+                {% for item in site.date.menu %}
+                    <li><a href="{{item.link}}">{{item.title}}</a></li>
+                {% endfor %}
                 <li>
                     <a href="#headings">Headings</a>
                 </li>
