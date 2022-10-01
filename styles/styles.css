@@ -1,6 +1,30 @@
-nav {
+ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    list-style: none;
+    gap: 20px;
+    position: fixed;
+    padding: 0;
     width: 100%;
+    background: white;
+    margin: 0;
+    height: 80px;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.wrapper {
+    margin: 40px 8px 8px 8px;
 }
