@@ -1,15 +1,10 @@
 .nav-items {
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     list-style: none;
-    gap: 20px;
-    position: fixed;
-    padding: 0;
-    width: 100%;
-    background: white;
-    margin: 0;
-    height: 80px;
+    margin-right: 20px;
 }
 
 body, html {
@@ -20,11 +15,11 @@ body, html {
 }
 
 nav {
-    position: absolute;
+    position: fixed;
     top: 0;
     width: 100%;
 }
 
 .wrapper {
-    margin: 40px 8px 8px 8px;
+    margin: 80px 16px 8px;
 }
